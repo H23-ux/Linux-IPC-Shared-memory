@@ -22,12 +22,18 @@ Execute the C Program for the desired output.
 
 ## Write a C program that illustrates two processes communicating using shared memory.
 
+```
 
+```
 
 
 
 ## OUTPUT
 
+<img width="645" height="322" alt="image" src="https://github.com/user-attachments/assets/a69c16a4-4f05-47b6-befa-a37f8f855bae" />
+
+
+<img width="763" height="396" alt="image" src="https://github.com/user-attachments/assets/89035fa3-2ab0-4b36-be34-05b5704e61f3" />
 
 # RESULT:
 The program is executed successfully.
